@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  background-color:rgb(203, 238, 152);
+}
+
+.button{
+  height: 200px;
+  width: 150px;
+  border: none;
+  margin: 20px;
+  background-color: rgb(204, 238, 250);
+  border-radius: 30px;
+}
+
+.button-img{
+  height: 150px;
+}
+
+#reset-button{
+  height: 40px;
+  width: 150px;
+  background-color: red;
+}
